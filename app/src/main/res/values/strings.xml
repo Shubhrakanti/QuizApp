@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+
+    <string name="Language">Language</string>
+    <string name="Spanish">Spanish</string>
+    <string name="English">English</string>
+
+    <string name="question1">1. You should always write comments in your code.</string>
+        <string name="question1option1">True</string>
+        <string name="question1option2">False</string>
+
+    <string name="question2">2. Which of the following is the first step to staring an app?</string>
+        <string name="question2option1">Designing the layout</string>
+        <string name="question2option2">Thinking of an idea</string>
+        <string name="question2option3">Debugging</string>
+        <string name="question2option4">Eating Cake</string>
+
+    <string name="question3">3. Which of the following are good coding habits?</string>
+        <string name="question3option1">Getting hammered the night before you start</string>
+        <string name="question3option2">Storing strings in &quot;strings.xml&quot;</string>
+        <string name="question3option3">Debugging</string>
+        <string name="question3option4">Falling asleep in class</string>
+
+    <string name="question4">4. The M16A4 service rifle is fed by?</string>
+        <string name="question4option1">Drums</string>
+        <string name="question4option2">Hand</string>
+        <string name="question4option3">Grass</string>
+        <string name="question4option4" translatable="false">Magazines</string>
+
+    <string name="question5">5. What is the game of the year for 2016?</string>
+        <string name="question5option1" translatable="false">Call of Duty: Infinite Warfare</string>
+        <string name="question5option2" translatable="false">Titanfall 2</string>
+        <string name="question5option3" translatable="false">Battlefield 1</string>
+        <string name="question5option4" translatable="false">Clash Royale</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="email">Email Results to Teacher</string>
+
+
+</resources>

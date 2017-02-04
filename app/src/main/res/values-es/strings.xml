@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen App</string>
+    <string name="English">Inglés</string>
+    <string name="Language">Lenguaje</string>
+    <string name="Spanish">Español</string>
+    <string name="email">Enviar los resultados por email al profesor</string>
+    <string name="question1">1. Siempre debe escribir comentarios en su código.</string>
+    <string name="question1option1">Cierto</string>
+    <string name="question1option2">Falso</string>
+    <string name="question2">2. ¿Cuál de los siguientes es el primer paso para mirar una aplicación?</string>
+    <string name="question2option1">Diseño el diseño</string>
+    <string name="question2option2">Pensando una idea</string>
+    <string name="question2option3">Depuración</string>
+    <string name="question2option4">Comiendo pastel</string>
+    <string name="question3">3. ¿Cuáles de los siguientes son buenos manas de codificación?</string>
+    <string name="question3option1">Obtener martillado la noche antes de empezar</string>
+    <string name="question3option2">Almacenamiento de cadenas en &quot;strings.xml&quot;</string>
+    <string name="question3option3">Depuración</string>
+    <string name="question3option4">Dormir en la clase</string>
+    <string name="question4">" 4. ¿El rifle de servicio M16A4 es alimentado por?"</string>
+    <string name="question4option1">Batería</string>
+    <string name="question4option2">Mano</string>
+    <string name="question4option3">Césped</string>
+    <string name="question5">5. ¿Cuál es el juego del año para 2016?</string>
+    <string name="submit">Enviar</string>
+</resources>
