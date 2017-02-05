@@ -215,6 +215,35 @@
                 android:id="@+id/question5option4"
                 style="@style/Answers"/>
         </RadioGroup>
+        
+        <!-- Question 6-->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6. What's 1+1?"
+                style="@style/Question"
+                android:layout_weight="1"/>
+
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/answer6"
+                android:layout_weight="2"/>
+
+            <!-- Why is it coming out so funky? -->
+
+        </LinearLayout>
+        
+
+
 
         <!-- Submit Button -->
 
